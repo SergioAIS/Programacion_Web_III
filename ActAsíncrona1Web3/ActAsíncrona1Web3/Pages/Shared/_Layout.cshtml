@@ -1,0 +1,138 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - TechUniv</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/ActAsíncrona1Web3.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand d-flex align-items-center" asp-area="" asp-page="/Index">
+                    <img src="https://cdn.freebiesupply.com/logos/large/2x/universidad-logo-png-transparent.png" 
+                         alt="TechUniv Logo" 
+                         class="me-2" 
+                         style="height: 40px; width: auto;">
+                    <span>ActAsíncrona1Web3</span>
+                </a>
+                <button class="navbar-toggleable-sm" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Inicio</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Noticias">Noticias</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Contacto">Contacto</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    
+    <div class="container-fluid">
+        <div class="content-wrapper">
+            @if (!Context.Request.Path.StartsWithSegments("/Contacto"))
+            {
+                @await Html.PartialAsync("_MenuLateral")
+            }
+            
+            <main class="main-content @(Context.Request.Path.StartsWithSegments("/Contacto") ? "" : "ps-4")" role="main">
+                @RenderBody()
+            </main>
+        </div>
+    </div>
+
+    <!-- Sección de contenido extra opcional -->
+    @if (IsSectionDefined("ExtraContent"))
+    {
+        <div class="bg-light py-5 mt-5 extra-content-section">
+            <div class="container">
+                @RenderSection("ExtraContent", required: false)
+            </div>
+        </div>
+    }
+
+    <!-- Footer principal con información de la universidad -->
+    <div class="bg-light py-5 mt-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 mb-4">
+                    <h5 class="text-dark mb-3">TechUniv</h5>
+                    <p class="text-muted">Universidad Tecnológica de Innovación y Futuro Digital</p>
+                    <p class="text-muted mb-2">
+                        <i class="bi bi-geo-alt"></i> Calle Tecnología 123, Madrid, España
+                    </p>
+                    <p class="text-muted mb-2">
+                        <i class="bi bi-telephone"></i> +34 91 123 45 67
+                    </p>
+                    <p class="text-muted">
+                        <i class="bi bi-envelope"></i> info@techuniv.es
+                    </p>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <h5 class="text-dark mb-3">Programas Académicos</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="#" class="text-muted text-decoration-none">Ingeniería en Web3</a></li>
+                        <li><a href="#" class="text-muted text-decoration-none">Desarrollo Blockchain</a></li>
+                        <li><a href="#" class="text-muted text-decoration-none">Inteligencia Artificial</a></li>
+                        <li><a href="#" class="text-muted text-decoration-none">Ciberseguridad</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <h5 class="text-dark mb-3">Síguenos</h5>
+                    <div class="d-flex gap-3">
+                        <a href="#" class="text-muted text-decoration-none">
+                            <i class="bi bi-facebook fs-4"></i>
+                        </a>
+                        <a href="#" class="text-muted text-decoration-none">
+                            <i class="bi bi-twitter fs-4"></i>
+                        </a>
+                        <a href="#" class="text-muted text-decoration-none">
+                            <i class="bi bi-linkedin fs-4"></i>
+                        </a>
+                        <a href="#" class="text-muted text-decoration-none">
+                            <i class="bi bi-instagram fs-4"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer inferior con copyright -->
+    <footer class="bg-dark text-white py-4">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-8">
+                    <p class="mb-0">&copy; TechUniv 2025 by Web3 Development Team | All Rights Reserved | Powered by ASP.NET Core</p>
+                    <p class="mb-0 mt-1">Design - System Engineer & Full Stack Developer</p>
+                </div>
+                <div class="col-md-4 text-end">
+                    <button id="scrollToTop" class="btn btn-outline-light rounded-circle" style="width: 40px; height: 40px;">
+                        <i class="bi bi-chevron-up"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

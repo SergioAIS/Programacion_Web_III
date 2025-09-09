@@ -1,0 +1,192 @@
+﻿@page
+@model ActAsíncrona1Web3.Pages.NoticiasModel
+@{
+    ViewData["Title"] = "Noticias";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <h1 class="display-4 text-center mb-4">Últimas Noticias</h1>
+            <p class="lead text-center mb-5">Mantente informado sobre las novedades de TechUniv</p>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-md-6 col-lg-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body">
+                    <div class="d-flex justify-content-between align-items-start mb-2">
+                        <span class="badge bg-primary">Web3</span>
+                        <small class="text-muted">@DateTime.Now.ToString("dd/MM/yyyy")</small>
+                    </div>
+                    <h5 class="card-title">Nueva Especialización en Web3</h5>
+                    <p class="card-text">TechUniv lanza su nueva especialización en tecnologías Web3 y blockchain, preparando a los estudiantes para el futuro descentralizado.</p>
+                    <a href="#" class="btn btn-outline-primary btn-sm">Leer más</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-6 col-lg-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body">
+                    <div class="d-flex justify-content-between align-items-start mb-2">
+                        <span class="badge bg-success">Innovación</span>
+                        <small class="text-muted">@DateTime.Now.AddDays(-1).ToString("dd/MM/yyyy")</small>
+                    </div>
+                    <h5 class="card-title">Laboratorio de IA Inaugurado</h5>
+                    <p class="card-text">Se inaugura el nuevo laboratorio de Inteligencia Artificial con tecnología de vanguardia para investigación y desarrollo.</p>
+                    <a href="#" class="btn btn-outline-success btn-sm">Leer más</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-6 col-lg-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body">
+                    <div class="d-flex justify-content-between align-items-start mb-2">
+                        <span class="badge bg-warning">Eventos</span>
+                        <small class="text-muted">@DateTime.Now.AddDays(-2).ToString("dd/MM/yyyy")</small>
+                    </div>
+                    <h5 class="card-title">Conferencia de Ciberseguridad</h5>
+                    <p class="card-text">Próxima conferencia sobre ciberseguridad con expertos internacionales en el campo de la protección digital.</p>
+                    <a href="#" class="btn btn-outline-warning btn-sm">Leer más</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-6 col-lg-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body">
+                    <div class="d-flex justify-content-between align-items-start mb-2">
+                        <span class="badge bg-info">Académico</span>
+                        <small class="text-muted">@DateTime.Now.AddDays(-3).ToString("dd/MM/yyyy")</small>
+                    </div>
+                    <h5 class="card-title">Nuevos Programas de Estudio</h5>
+                    <p class="card-text">Se anuncian nuevos programas de estudio en desarrollo de software y arquitectura de sistemas distribuidos.</p>
+                    <a href="#" class="btn btn-outline-info btn-sm">Leer más</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-6 col-lg-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body">
+                    <div class="d-flex justify-content-between align-items-start mb-2">
+                        <span class="badge bg-secondary">Investigación</span>
+                        <small class="text-muted">@DateTime.Now.AddDays(-4).ToString("dd/MM/yyyy")</small>
+                    </div>
+                    <h5 class="card-title">Proyecto de Investigación Blockchain</h5>
+                    <p class="card-text">TechUniv inicia un proyecto de investigación sobre aplicaciones blockchain en la educación superior.</p>
+                    <a href="#" class="btn btn-outline-secondary btn-sm">Leer más</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-6 col-lg-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body">
+                    <div class="d-flex justify-content-between align-items-start mb-2">
+                        <span class="badge bg-danger">Urgente</span>
+                        <small class="text-muted">@DateTime.Now.AddDays(-5).ToString("dd/MM/yyyy")</small>
+                    </div>
+                    <h5 class="card-title">Actualización de Plataforma Virtual</h5>
+                    <p class="card-text">Se realizará una actualización importante de la plataforma virtual con nuevas funcionalidades y mejoras de seguridad.</p>
+                    <a href="#" class="btn btn-outline-danger btn-sm">Leer más</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row mt-5">
+        <div class="col-12 text-center">
+            <nav aria-label="Navegación de noticias">
+                <ul class="pagination justify-content-center">
+                    <li class="page-item disabled">
+                        <a class="page-link" href="#" tabindex="-1">Anterior</a>
+                    </li>
+                    <li class="page-item active"><a class="page-link" href="#">1</a></li>
+                    <li class="page-item"><a class="page-link" href="#">2</a></li>
+                    <li class="page-item"><a class="page-link" href="#">3</a></li>
+                    <li class="page-item">
+                        <a class="page-link" href="#">Siguiente</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+@section ExtraContent {
+    <div class="row">
+        <div class="col-12">
+            <h2 class="text-center mb-4">
+                <i class="bi bi-calendar-event me-2 text-primary"></i>Eventos Próximos
+            </h2>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-md-4 mb-4">
+            <div class="card border-primary h-100">
+                <div class="card-header bg-primary text-white">
+                    <h6 class="mb-0">
+                        <i class="bi bi-calendar-check me-2"></i>15 de Marzo, 2025
+                    </h6>
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">Conferencia Web3</h5>
+                    <p class="card-text">Conferencia sobre el futuro de las tecnologías descentralizadas con expertos internacionales.</p>
+                    <div class="d-flex justify-content-between align-items-center">
+                        <span class="badge bg-info">Presencial</span>
+                        <small class="text-muted">Auditorio Principal</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-4 mb-4">
+            <div class="card border-success h-100">
+                <div class="card-header bg-success text-white">
+                    <h6 class="mb-0">
+                        <i class="bi bi-calendar-check me-2"></i>22 de Marzo, 2025
+                    </h6>
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">Workshop Blockchain</h5>
+                    <p class="card-text">Taller práctico sobre desarrollo de smart contracts y aplicaciones blockchain.</p>
+                    <div class="d-flex justify-content-between align-items-center">
+                        <span class="badge bg-warning">Híbrido</span>
+                        <small class="text-muted">Laboratorio 3</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-4 mb-4">
+            <div class="card border-warning h-100">
+                <div class="card-header bg-warning text-dark">
+                    <h6 class="mb-0">
+                        <i class="bi bi-calendar-check me-2"></i>29 de Marzo, 2025
+                    </h6>
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">Hackathon IA</h5>
+                    <p class="card-text">Competencia de programación enfocada en inteligencia artificial y machine learning.</p>
+                    <div class="d-flex justify-content-between align-items-center">
+                        <span class="badge bg-danger">Virtual</span>
+                        <small class="text-muted">Plataforma Online</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row mt-4">
+        <div class="col-12 text-center">
+            <a href="#" class="btn btn-primary btn-lg">
+                <i class="bi bi-calendar-plus me-2"></i>Ver Todos los Eventos
+            </a>
+        </div>
+    </div>
+}

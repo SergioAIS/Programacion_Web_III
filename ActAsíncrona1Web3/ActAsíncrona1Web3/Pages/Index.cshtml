@@ -1,0 +1,154 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <div class="text-center mb-5">
+                <h1 class="display-4 mb-4">Bienvenido a TechUniv</h1>
+                <p class="lead mb-4">Tu plataforma para el futuro tecnológico</p>
+                <div class="d-flex justify-content-center gap-3">
+                    <a href="/Noticias" class="btn btn-outline-primary btn-lg">Ver Noticias</a>
+                    <a href="/Contacto" class="btn btn-primary btn-lg">Contactar</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row mb-5">
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body text-center p-4">
+                    <h5 class="card-title">Web3 & Blockchain</h5>
+                    <p class="card-text">Explora las últimas tecnologías blockchain y descentralizadas.</p>
+                    <a href="#" class="btn btn-outline-primary">Saber más</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body text-center p-4">
+                    <h5 class="card-title">Tecnología Asíncrona</h5>
+                    <p class="card-text">Procesamiento eficiente y escalable para aplicaciones modernas.</p>
+                    <a href="#" class="btn btn-outline-primary">Saber más</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body text-center p-4">
+                    <h5 class="card-title">ASP.NET Core 9.0</h5>
+                    <p class="card-text">Desarrollado con la última versión del framework de Microsoft.</p>
+                    <a href="#" class="btn btn-outline-primary">Saber más</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-lg-8 mb-4">
+            <div class="card shadow-sm">
+                <div class="card-body p-4">
+                    <h4 class="card-title mb-3">¿Por qué elegir TechUniv?</h4>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <ul class="list-unstyled">
+                                <li class="mb-2">Profesores expertos en Web3</li>
+                                <li class="mb-2">Laboratorios de última generación</li>
+                                <li class="mb-2">Convenios con empresas tecnológicas</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6">
+                            <ul class="list-unstyled">
+                                <li class="mb-2">Plataforma virtual avanzada</li>
+                                <li class="mb-2">Biblioteca digital especializada</li>
+                                <li class="mb-2">Calendario académico flexible</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-lg-4 mb-4">
+            <div class="card bg-primary text-white">
+                <div class="card-body text-center p-4">
+                    <h5 class="card-title mb-3">Próximos Eventos</h5>
+                    <p class="card-text">Mantente al día con nuestros eventos académicos y tecnológicos</p>
+                    <a href="#" class="btn btn-light">Ver Calendario</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section ExtraContent {
+    <div class="row align-items-center">
+        <div class="col-lg-6 mb-4">
+            <div class="text-center">
+                <img src="https://via.placeholder.com/500x300/6f42c1/ffffff?text=TechUniv+Campus" 
+                     alt="Campus TechUniv" 
+                     class="img-fluid rounded shadow" 
+                     style="max-width: 100%; height: auto;">
+            </div>
+        </div>
+        
+        <div class="col-lg-6 mb-4">
+            <div class="ps-lg-4">
+                <h2 class="display-6 mb-3">¡Bienvenido a TechUniv!</h2>
+                <p class="lead mb-4">
+                    Somos una universidad pionera en tecnologías emergentes, comprometida con formar a los líderes del mañana 
+                    en el mundo digital y descentralizado.
+                </p>
+                
+                <div class="row mb-4">
+                    <div class="col-6">
+                        <div class="d-flex align-items-center mb-3">
+                            <span>Profesores expertos</span>
+                        </div>
+                        <div class="d-flex align-items-center mb-3">
+                            <span>Laboratorios modernos</span>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="d-flex align-items-center mb-3">
+                            <span>Plataforma virtual</span>
+                        </div>
+                        <div class="d-flex align-items-center mb-3">
+                            <span>Biblioteca digital</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="d-flex gap-3">
+                    <a href="/Noticias" class="btn btn-outline-primary">
+                        Ver Noticias
+                    </a>
+                    <a href="/Contacto" class="btn btn-primary">
+                        Contactar
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row mt-5">
+        <div class="col-12">
+            <div class="bg-primary text-white p-4 rounded text-center">
+                <h4 class="mb-3">¿Listo para el Futuro?</h4>
+                <p class="mb-3">
+                    Únete a TechUniv y forma parte de la revolución tecnológica. 
+                    Nuestros programas están diseñados para prepararte para las carreras del mañana.
+                </p>
+                <a href="#" class="btn btn-light btn-lg">
+                    Explorar Programas
+                </a>
+            </div>
+        </div>
+    </div>
+}
