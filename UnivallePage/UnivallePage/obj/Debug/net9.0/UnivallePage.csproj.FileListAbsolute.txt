@@ -1,0 +1,194 @@
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\bin\Debug\net9.0\appsettings.json
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\bin\Debug\net9.0\UnivallePage.staticwebassets.runtime.json
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\bin\Debug\net9.0\UnivallePage.staticwebassets.endpoints.json
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\bin\Debug\net9.0\UnivallePage.exe
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\bin\Debug\net9.0\UnivallePage.deps.json
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\bin\Debug\net9.0\UnivallePage.runtimeconfig.json
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\bin\Debug\net9.0\UnivallePage.dll
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\bin\Debug\net9.0\UnivallePage.pdb
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\UnivallePage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\UnivallePage.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\UnivallePage.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\UnivallePage.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\UnivallePage.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\UnivallePage.RazorAssemblyInfo.cache
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\UnivallePage.RazorAssemblyInfo.cs
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\scopedcss\bundle\UnivallePage.styles.css
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\scopedcss\projectbundle\UnivallePage.bundle.scp.css
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\e4u09hifn9-b9sayid5wm.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\fekc6lqi9d-61n19gt1b8.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\bicfnn8jgq-xtxxf3hu2r.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\lkr1mfgu6y-bqjiyaj88i.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\32dn7ftrwn-c2jlpeoesf.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\cvbqzvbje1-erw9l3u2r3.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\crmj2axas8-aexeepp0ev.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\1m3vdzuqm4-d7shbmvgxk.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\qqydzeo89s-ausgxo2sd3.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\ckeydwa29b-k8d9w2qqmf.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\6vxxpm66tp-cosvhxvwiu.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\923cq43rbc-ub07r2b239.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\1i8uvtttko-fvhpjtyr6v.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\v495qi9voe-b7pk76d08c.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\n0rtzvndw1-fsbi9cje9m.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\qfblc9dfw1-rzd6atqjts.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\9k3wqj9hwp-ee0r1s7dh0.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\nkts73vi9i-dxx9fxp4il.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\442h4kizch-jd9uben2k1.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\d9fte94xy1-khv3u5hwcm.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\lia7co3gbq-r4e9w2rdcm.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\vybc06psc2-lcd1t2u6c8.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\0gt46in6s0-c2oey78nd0.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\ydces9gtxa-tdbxkamptv.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\503xmm4mwi-j5mq2jizvt.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\01b8x5v04a-06098lyss8.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\lvepe2vwuy-nvvlpmu67g.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\xm6sa4q7i0-s35ty4nyc5.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\8v3j2jw3b3-pj5nd1wqec.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\sw45b06meb-46ein0sx1k.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\cewg1iu5d7-v0zj4ognzu.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\hqoqw1dhs9-37tfw0ft22.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\hq8kpt0nd8-hrwsygsryq.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\jekboxuv29-pk9g2wxc8p.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\njozb4gmwd-ft3s53vfgj.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\qwp9mjraz4-6cfz1n2cew.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\5xs7wv33kd-6pdc2jztkx.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\opgn6brzsp-493y06b0oq.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\4bz181ei7m-iovd86k7lj.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\rz1a5583vn-vr1egmr9el.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\yi1k4ynnnk-kbrnm935zg.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\3dzfu0vbio-jj8uyg4cgr.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\m3yy48bqa8-y7v9cxd14o.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\dvn3bjz11c-notf2xhcfb.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\mqgba0r96w-h1s4sie4z3.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\2x881s6973-63fj8s7r0e.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\1olozk99u1-0j3bgjxly4.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\uoxali3pj7-47otxtyo56.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\iixnpcf2id-4v8eqarkd7.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\qc7bn3twk0-356vix0kms.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\6bhg1lglxo-83jwlth58m.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\y539r5v19q-mrlpezrjn3.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\kvjnm24rua-lzl9nlhx6b.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\e6wejg3nut-ag7o75518u.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\b6k86pys6a-x0q3zqp4vz.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\oxzbdp8mw4-0i3buxo5is.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\hn6k3xultb-o1o13a6vjx.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\4uq1hir5tv-ttgo8qnofa.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\l5em4323sl-2z0ns9nrw6.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\lyihweri6n-muycvpuwrr.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\8hso5tymeo-87fc7y1x7t.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\kizmw9nfc4-mlv21k5csn.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\1ehsv47dda-v7omw46fyc.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\2f84hbl7s5-v7omw46fyc.gz
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\UnivallePage.dll
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\refint\UnivallePage.dll
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\UnivallePage.pdb
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\UnivallePage.genruntimeconfig.cache
+C:\Users\Sergio\Desktop\UnivallePage\UnivallePage\obj\Debug\net9.0\ref\UnivallePage.dll
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\bin\Debug\net9.0\appsettings.json
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\bin\Debug\net9.0\UnivallePage.staticwebassets.endpoints.json
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\bin\Debug\net9.0\UnivallePage.staticwebassets.runtime.json
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\bin\Debug\net9.0\UnivallePage.exe
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\bin\Debug\net9.0\UnivallePage.deps.json
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\bin\Debug\net9.0\UnivallePage.runtimeconfig.json
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\bin\Debug\net9.0\UnivallePage.dll
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\bin\Debug\net9.0\UnivallePage.pdb
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\UnivallePage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\UnivallePage.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\UnivallePage.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\UnivallePage.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\UnivallePage.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\UnivallePage.RazorAssemblyInfo.cache
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\UnivallePage.RazorAssemblyInfo.cs
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\scopedcss\bundle\UnivallePage.styles.css
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\scopedcss\projectbundle\UnivallePage.bundle.scp.css
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\e4u09hifn9-b9sayid5wm.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\fekc6lqi9d-61n19gt1b8.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\bicfnn8jgq-xtxxf3hu2r.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\lkr1mfgu6y-bqjiyaj88i.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\32dn7ftrwn-c2jlpeoesf.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\cvbqzvbje1-erw9l3u2r3.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\crmj2axas8-aexeepp0ev.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\1m3vdzuqm4-d7shbmvgxk.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\qqydzeo89s-ausgxo2sd3.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\ckeydwa29b-k8d9w2qqmf.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\6vxxpm66tp-cosvhxvwiu.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\923cq43rbc-ub07r2b239.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\1i8uvtttko-fvhpjtyr6v.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\v495qi9voe-b7pk76d08c.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\n0rtzvndw1-fsbi9cje9m.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\qfblc9dfw1-rzd6atqjts.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\9k3wqj9hwp-ee0r1s7dh0.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\nkts73vi9i-dxx9fxp4il.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\442h4kizch-jd9uben2k1.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\d9fte94xy1-khv3u5hwcm.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\lia7co3gbq-r4e9w2rdcm.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\vybc06psc2-lcd1t2u6c8.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\0gt46in6s0-c2oey78nd0.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\ydces9gtxa-tdbxkamptv.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\503xmm4mwi-j5mq2jizvt.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\01b8x5v04a-06098lyss8.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\lvepe2vwuy-nvvlpmu67g.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\xm6sa4q7i0-s35ty4nyc5.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\8v3j2jw3b3-pj5nd1wqec.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\sw45b06meb-46ein0sx1k.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\cewg1iu5d7-v0zj4ognzu.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\hqoqw1dhs9-37tfw0ft22.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\hq8kpt0nd8-hrwsygsryq.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\jekboxuv29-pk9g2wxc8p.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\njozb4gmwd-ft3s53vfgj.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\qwp9mjraz4-6cfz1n2cew.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\5xs7wv33kd-6pdc2jztkx.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\opgn6brzsp-493y06b0oq.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\4bz181ei7m-iovd86k7lj.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\rz1a5583vn-vr1egmr9el.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\yi1k4ynnnk-kbrnm935zg.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\3dzfu0vbio-jj8uyg4cgr.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\m3yy48bqa8-y7v9cxd14o.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\dvn3bjz11c-notf2xhcfb.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\mqgba0r96w-h1s4sie4z3.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\2x881s6973-63fj8s7r0e.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\1olozk99u1-0j3bgjxly4.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\uoxali3pj7-47otxtyo56.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\iixnpcf2id-4v8eqarkd7.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\qc7bn3twk0-356vix0kms.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\6bhg1lglxo-83jwlth58m.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\y539r5v19q-mrlpezrjn3.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\kvjnm24rua-lzl9nlhx6b.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\e6wejg3nut-ag7o75518u.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\b6k86pys6a-x0q3zqp4vz.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\oxzbdp8mw4-0i3buxo5is.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\hn6k3xultb-o1o13a6vjx.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\4uq1hir5tv-ttgo8qnofa.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\l5em4323sl-2z0ns9nrw6.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\lyihweri6n-muycvpuwrr.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\8hso5tymeo-87fc7y1x7t.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\kizmw9nfc4-mlv21k5csn.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\1ehsv47dda-v7omw46fyc.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\compressed\2f84hbl7s5-v7omw46fyc.gz
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\UnivallePage.dll
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\refint\UnivallePage.dll
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\UnivallePage.pdb
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\UnivallePage.genruntimeconfig.cache
+C:\Users\Sergio\Desktop\Tareas\Programación Web III\UnivallePage\UnivallePage\obj\Debug\net9.0\ref\UnivallePage.dll

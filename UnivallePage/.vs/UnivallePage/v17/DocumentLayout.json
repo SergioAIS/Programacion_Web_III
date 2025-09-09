@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\UnivallePage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42024044-CB89-460D-9167-F427CC3F93EA}|UnivallePage\\UnivallePage.csproj|c:\\users\\sergio\\desktop\\tareas\\programaci\u00F3n web iii\\univallepage\\univallepage\\pages\\carrera.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42024044-CB89-460D-9167-F427CC3F93EA}|UnivallePage\\UnivallePage.csproj|solutionrelative:univallepage\\pages\\carrera.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42024044-CB89-460D-9167-F427CC3F93EA}|UnivallePage\\UnivallePage.csproj|c:\\users\\sergio\\desktop\\tareas\\programaci\u00F3n web iii\\univallepage\\univallepage\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42024044-CB89-460D-9167-F427CC3F93EA}|UnivallePage\\UnivallePage.csproj|solutionrelative:univallepage\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42024044-CB89-460D-9167-F427CC3F93EA}|UnivallePage\\UnivallePage.csproj|c:\\users\\sergio\\desktop\\tareas\\programaci\u00F3n web iii\\univallepage\\univallepage\\pages\\investigacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42024044-CB89-460D-9167-F427CC3F93EA}|UnivallePage\\UnivallePage.csproj|solutionrelative:univallepage\\pages\\investigacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42024044-CB89-460D-9167-F427CC3F93EA}|UnivallePage\\UnivallePage.csproj|c:\\users\\sergio\\desktop\\tareas\\programaci\u00F3n web iii\\univallepage\\univallepage\\pages\\alumni.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42024044-CB89-460D-9167-F427CC3F93EA}|UnivallePage\\UnivallePage.csproj|solutionrelative:univallepage\\pages\\alumni.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42024044-CB89-460D-9167-F427CC3F93EA}|UnivallePage\\UnivallePage.csproj|c:\\users\\sergio\\desktop\\tareas\\programaci\u00F3n web iii\\univallepage\\univallepage\\pages\\postgrado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42024044-CB89-460D-9167-F427CC3F93EA}|UnivallePage\\UnivallePage.csproj|solutionrelative:univallepage\\pages\\postgrado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42024044-CB89-460D-9167-F427CC3F93EA}|UnivallePage\\UnivallePage.csproj|c:\\users\\sergio\\desktop\\tareas\\programaci\u00F3n web iii\\univallepage\\univallepage\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42024044-CB89-460D-9167-F427CC3F93EA}|UnivallePage\\UnivallePage.csproj|solutionrelative:univallepage\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42024044-CB89-460D-9167-F427CC3F93EA}|UnivallePage\\UnivallePage.csproj|c:\\users\\sergio\\desktop\\tareas\\programaci\u00F3n web iii\\univallepage\\univallepage\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42024044-CB89-460D-9167-F427CC3F93EA}|UnivallePage\\UnivallePage.csproj|solutionrelative:univallepage\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "about.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\UnivallePage\\UnivallePage\\Pages\\about.cshtml",
+              "RelativeDocumentMoniker": "UnivallePage\\Pages\\about.cshtml",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\UnivallePage\\UnivallePage\\Pages\\about.cshtml",
+              "RelativeToolTip": "UnivallePage\\Pages\\about.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T11:34:19.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "carrera.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\UnivallePage\\UnivallePage\\Pages\\carrera.cshtml",
+              "RelativeDocumentMoniker": "UnivallePage\\Pages\\carrera.cshtml",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\UnivallePage\\UnivallePage\\Pages\\carrera.cshtml",
+              "RelativeToolTip": "UnivallePage\\Pages\\carrera.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T12:12:00.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\UnivallePage\\UnivallePage\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "UnivallePage\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\UnivallePage\\UnivallePage\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "UnivallePage\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T11:39:37.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "investigacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\UnivallePage\\UnivallePage\\Pages\\investigacion.cshtml",
+              "RelativeDocumentMoniker": "UnivallePage\\Pages\\investigacion.cshtml",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\UnivallePage\\UnivallePage\\Pages\\investigacion.cshtml",
+              "RelativeToolTip": "UnivallePage\\Pages\\investigacion.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T11:33:55.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "alumni.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\UnivallePage\\UnivallePage\\Pages\\alumni.cshtml",
+              "RelativeDocumentMoniker": "UnivallePage\\Pages\\alumni.cshtml",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\UnivallePage\\UnivallePage\\Pages\\alumni.cshtml",
+              "RelativeToolTip": "UnivallePage\\Pages\\alumni.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwCEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T11:33:37.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "postgrado.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\UnivallePage\\UnivallePage\\Pages\\postgrado.cshtml",
+              "RelativeDocumentMoniker": "UnivallePage\\Pages\\postgrado.cshtml",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\UnivallePage\\UnivallePage\\Pages\\postgrado.cshtml",
+              "RelativeToolTip": "UnivallePage\\Pages\\postgrado.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T11:32:34.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\UnivallePage\\UnivallePage\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "UnivallePage\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\UnivallePage\\UnivallePage\\Pages\\Index.cshtml",
+              "RelativeToolTip": "UnivallePage\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T11:30:18.251Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

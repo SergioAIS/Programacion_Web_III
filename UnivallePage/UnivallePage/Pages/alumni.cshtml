@@ -1,0 +1,50 @@
+﻿@page
+@model UnivallePage.Pages.alumniModel
+@{
+    ViewData["Title"] = "Alumni";
+}
+
+<style>
+    .alumni-title {
+        font-size: 2rem;
+        color: #222;
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+    .alumni-stats {
+        display: flex;
+        justify-content: center;
+        gap: 3rem;
+        text-align: center;
+    }
+    .alumni-number {
+        font-size: 2rem;
+        color: #444;
+    }
+    .alumni-location {
+        font-size: 1rem;
+        color: #999;
+    }
+</style>
+
+<div>
+    <div class="alumni-title">Total de Graduados por Sede Académica</div>
+    <div class="alumni-stats">
+        <div>
+            <div class="alumni-number">+10000</div>
+            <div class="alumni-location">COCHABAMBA</div>
+        </div>
+        <div>
+            <div class="alumni-number">+7000</div>
+            <div class="alumni-location">LA PAZ</div>
+        </div>
+        <div>
+            <div class="alumni-number">+1500</div>
+            <div class="alumni-location">SUCRE</div>
+        </div>
+        <div>
+            <div class="alumni-number">+900</div>
+            <div class="alumni-location">TRINIDAD</div>
+        </div>
+    </div>
+</div>
