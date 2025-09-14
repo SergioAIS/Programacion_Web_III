@@ -1,0 +1,13 @@
+﻿@page
+@model MigracionDB.Pages.Tag.DeleteModel
+@{
+}
+@if (Model.Tag is not null)
+{
+	<h4> Está seguro que quiere eliminar "@Model.Tag.Name"</h4>
+
+	<form method="post">
+		<button type="submit" class="btn btn-danger">Eliminar</button>
+		<a asp-page="Index" class="btn btn-secondary">Cancelar</a>
+	</form>
+}

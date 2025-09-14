@@ -1,0 +1,26 @@
+﻿@page 
+@model MigracionDB.Pages.Tag.IndexModel
+@{
+}
+<h1> Etiquetas </h1>
+<p><a asp-page="Create" class="btn btn-primary">Crear</a></p>
+<table>
+	<thead>
+		<th>ID</th>
+		<th> Nombre</th>
+	</thead>
+	<tbody>
+
+		@foreach(var tag in Model.Tages)
+		{
+			<tr>
+				<td>@tag.Id</td>
+				<td>@tag.Name</td>
+				<td><a asp-page="Edit" asp-route-id="@tag.Id" class="btn btn-info">Editar</a></td>
+				<td><a asp-page="Delete" asp-route-id="@tag.Id" class="btn btn-danger">Borrar</a></td>
+				
+
+			</tr>
+		}
+	</tbody>
+</table>

@@ -1,0 +1,19 @@
+﻿@page
+@model MigracionDB.Pages.Tag.CreateModel
+@{
+}
+
+<h1> Creando Tags</h1>
+<form method="post">
+	<!--<div class="mb-3">
+		<label asp-for="Tag.Id">Id</label>
+		<input asp-for="Tag.Id" class="form-control" />
+		</div>-->
+	<div class="mb-3">
+		<label asp-for="Tag.Name">Nombre</label>
+		<input asp-for="Tag.Name" class="form-control" />
+	</div>
+	<!--<input />-->
+	<button type="submit" class="btn btn-primary">Guardar</button>
+	<a asp-page="Index" class="btn btn-secondary">Volver</a>
+</form>
