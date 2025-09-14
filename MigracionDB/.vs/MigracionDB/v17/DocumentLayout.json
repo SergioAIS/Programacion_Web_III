@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Sergio\\Desktop\\MigracionDB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AA2C3A7-4141-41EA-849A-967D9E2EF5FC}|MigracionDB\\MigracionDB.csproj|c:\\users\\sergio\\desktop\\migraciondb\\migraciondb\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AA2C3A7-4141-41EA-849A-967D9E2EF5FC}|MigracionDB\\MigracionDB.csproj|solutionrelative:migraciondb\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AA2C3A7-4141-41EA-849A-967D9E2EF5FC}|MigracionDB\\MigracionDB.csproj|c:\\users\\sergio\\desktop\\migraciondb\\migraciondb\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AA2C3A7-4141-41EA-849A-967D9E2EF5FC}|MigracionDB\\MigracionDB.csproj|solutionrelative:migraciondb\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AA2C3A7-4141-41EA-849A-967D9E2EF5FC}|MigracionDB\\MigracionDB.csproj|c:\\users\\sergio\\desktop\\migraciondb\\migraciondb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AA2C3A7-4141-41EA-849A-967D9E2EF5FC}|MigracionDB\\MigracionDB.csproj|solutionrelative:migraciondb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AA2C3A7-4141-41EA-849A-967D9E2EF5FC}|MigracionDB\\MigracionDB.csproj|c:\\users\\sergio\\desktop\\migraciondb\\migraciondb\\models\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AA2C3A7-4141-41EA-849A-967D9E2EF5FC}|MigracionDB\\MigracionDB.csproj|solutionrelative:migraciondb\\models\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AA2C3A7-4141-41EA-849A-967D9E2EF5FC}|MigracionDB\\MigracionDB.csproj|c:\\users\\sergio\\desktop\\migraciondb\\migraciondb\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AA2C3A7-4141-41EA-849A-967D9E2EF5FC}|MigracionDB\\MigracionDB.csproj|solutionrelative:migraciondb\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AA2C3A7-4141-41EA-849A-967D9E2EF5FC}|MigracionDB\\MigracionDB.csproj|c:\\users\\sergio\\desktop\\migraciondb\\migraciondb\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AA2C3A7-4141-41EA-849A-967D9E2EF5FC}|MigracionDB\\MigracionDB.csproj|solutionrelative:migraciondb\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,54 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Ticket.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\MigracionDB\\MigracionDB\\Models\\Ticket.cs",
-              "RelativeDocumentMoniker": "MigracionDB\\Models\\Ticket.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\MigracionDB\\MigracionDB\\Models\\Ticket.cs",
-              "RelativeToolTip": "MigracionDB\\Models\\Ticket.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA1wA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T11:31:43.67Z",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\MigracionDB\\MigracionDB\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MigracionDB\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\MigracionDB\\MigracionDB\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MigracionDB\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T16:11:10.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Tag.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\MigracionDB\\MigracionDB\\Models\\Tag.cs",
-              "RelativeDocumentMoniker": "MigracionDB\\Models\\Tag.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\MigracionDB\\MigracionDB\\Models\\Tag.cs",
-              "RelativeToolTip": "MigracionDB\\Models\\Tag.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T03:17:53.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataBaseContext.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\MigracionDB\\MigracionDB\\Models\\Data\\DataBaseContext.cs",
-              "RelativeDocumentMoniker": "MigracionDB\\Models\\Data\\DataBaseContext.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\MigracionDB\\MigracionDB\\Models\\Data\\DataBaseContext.cs",
-              "RelativeToolTip": "MigracionDB\\Models\\Data\\DataBaseContext.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T11:33:50.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\MigracionDB\\MigracionDB\\Models\\User.cs",
-              "RelativeDocumentMoniker": "MigracionDB\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\MigracionDB\\MigracionDB\\Models\\User.cs",
-              "RelativeToolTip": "MigracionDB\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T11:33:12.008Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\MigracionDB\\MigracionDB\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "MigracionDB\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\MigracionDB\\MigracionDB\\Pages\\Index.cshtml",
+              "RelativeToolTip": "MigracionDB\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T11:48:47.032Z",
               "EditorCaption": ""
             }
           ]
