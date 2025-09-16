@@ -1,0 +1,39 @@
+﻿@model IEnumerable<User>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1>Listado de usurios</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Correo</th>
+            <th>Teléfono</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (!Model.Any())
+        {
+            <tr>
+                <td colspan ="4"> No existen datos de usuario</td>
+            </tr>
+        }
+        else
+        {
+            @foreach(var user in Model)
+            {
+                <tr>
+                    <td>@user.Name</td>
+                    <td>@user.LastName</td>
+                    <td>@user.Email</td>
+                    <td>@user.Phone</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
