@@ -1,0 +1,14 @@
+﻿@page
+@model ActividadAsincrona2.Pages.Post.DeleteModel
+@{
+}
+@if (Model.Post is not null)
+{
+	<h4> Está seguro que quiere eliminar "@Model.Post.Name"</h4>
+
+	<form method="post">
+		<button type="submit" class="btn btn-danger">Eliminar</button>
+		<a asp-page="Index" class="btn btn-secondary">Cancelar</a>
+	</form>
+}
+

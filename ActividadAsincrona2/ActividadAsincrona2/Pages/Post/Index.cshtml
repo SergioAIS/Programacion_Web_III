@@ -1,0 +1,43 @@
+﻿@page
+@model ActividadAsincrona2.Pages.Post.IndexModel
+@{
+}
+<h1> Publicaciones </h1>
+
+<form method="get" class="row g-2 mb-3">
+    <div class="col-auto">
+        <input type="text" name="SearchName" value="@Model.SearchName" class="form-control" placeholder="Buscar por nombre" />
+    </div>
+    <div class="col-auto">
+        <input type="text" name="SearchAuthor" value="@Model.SearchAuthor" class="form-control" placeholder="Buscar por autor" />
+    </div>
+    <div class="col-auto">
+        <button type="submit" class="btn btn-primary">Buscar</button>
+        <a asp-page="Index" class="btn btn-secondary">Limpiar</a>
+    </div>
+</form>
+
+<p><a asp-page="Create" class="btn btn-primary">Crear</a></p>
+<table>
+    <thead>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Contenido</th>
+        <th>Fecha de Publicación</th>
+        <th>Autor</th>
+    </thead>
+    <tbody>
+        @foreach (var post in Model.Posts)
+        {
+            <tr>
+                <td>@post.Id</td>
+                <td>@post.Name</td>
+                <td>@post.Content</td>
+                <td>@post.CreationDate</td>
+                <td>@post.Author</td>
+                <td><a asp-page="Edit" asp-route-id="@post.Id" class="btn btn-info">Editar</a></td>
+                <td><a asp-page="Delete" asp-route-id="@post.Id" class="btn btn-danger">Borrar</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

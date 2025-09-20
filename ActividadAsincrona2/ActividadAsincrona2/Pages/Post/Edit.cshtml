@@ -1,0 +1,32 @@
+﻿@page
+@model ActividadAsincrona2.Pages.Post.EditModel
+@{
+}
+<h1> Editar Publicaciones</h1>
+<form method="post">
+	<div class="mb-3">
+		<input type="hidden" asp-for="Post.Id" />
+		<label asp-for="Post.Name">Título</label>
+		<input asp-for="Post.Name" class="form-control" />
+	</div>
+
+	<div class="mb-3">
+		<input type="hidden" asp-for="Post.Id" />
+		<label asp-for="Post.Content">Contenido</label>
+		<input asp-for="Post.Content" class="form-control" />
+	</div>
+
+	<div class="mb-3">
+		<input type="hidden" asp-for="Post.Id" />
+		<label asp-for="Post.CreationDate">Fecha de Publicación</label>
+		<input asp-for="Post.CreationDate" class="form-control" />
+	</div>
+
+	<div class="mb-3">
+		<input type="hidden" asp-for="Post.Id" />
+		<label asp-for="Post.Author">Autor</label>
+		<input asp-for="Post.Author" class="form-control" />
+	</div>
+	<button type="submit" class="btn btn-primary">Guardar</button>
+	<a asp-page="Index" class="btn btn-secondary">Volver</a>
+</form>
