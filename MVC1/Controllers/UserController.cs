@@ -12,9 +12,9 @@ namespace MVC1.Controllers
         {
             _db = db;
         }
-        public IActionResult Index()
+        public  async Task<IActionResult> Index()
         {
-            return View();
+            return View(await _db.Users.ToListAsync());
         }
 
         public IActionResult Create()
