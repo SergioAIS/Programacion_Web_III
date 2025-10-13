@@ -1,41 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sergio\\Desktop\\MVC2\\MVC2\\",
+  "WorkspaceRootPath": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC2\\MVC2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|c:\\users\\sergio\\desktop\\mvc2\\mvc2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|c:\\users\\sergio\\desktop\\tareas\\programaci\u00F3n web iii\\programacion_web_iii\\mvc2\\mvc2\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|solutionrelative:views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|c:\\users\\sergio\\desktop\\mvc2\\mvc2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|c:\\users\\sergio\\desktop\\mvc2\\mvc2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|c:\\users\\sergio\\desktop\\mvc2\\mvc2\\views\\ticket\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|solutionrelative:views\\ticket\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|c:\\users\\sergio\\desktop\\mvc2\\mvc2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|c:\\users\\sergio\\desktop\\mvc2\\mvc2\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|solutionrelative:controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|c:\\users\\sergio\\desktop\\mvc2\\mvc2\\views\\ticket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|c:\\users\\sergio\\desktop\\tareas\\programaci\u00F3n web iii\\programacion_web_iii\\mvc2\\mvc2\\views\\ticket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|solutionrelative:views\\ticket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|c:\\users\\sergio\\desktop\\mvc2\\mvc2\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|c:\\users\\sergio\\desktop\\tareas\\programaci\u00F3n web iii\\programacion_web_iii\\mvc2\\mvc2\\views\\ticket\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|solutionrelative:views\\ticket\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|c:\\users\\sergio\\desktop\\tareas\\programaci\u00F3n web iii\\programacion_web_iii\\mvc2\\mvc2\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|solutionrelative:views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|c:\\users\\sergio\\desktop\\tareas\\programaci\u00F3n web iii\\programacion_web_iii\\mvc2\\mvc2\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|solutionrelative:models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|c:\\users\\sergio\\desktop\\mvc2\\mvc2\\models\\data\\helpdeskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|c:\\users\\sergio\\desktop\\tareas\\programaci\u00F3n web iii\\programacion_web_iii\\mvc2\\mvc2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|c:\\users\\sergio\\desktop\\tareas\\programaci\u00F3n web iii\\programacion_web_iii\\mvc2\\mvc2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|c:\\users\\sergio\\desktop\\tareas\\programaci\u00F3n web iii\\programacion_web_iii\\mvc2\\mvc2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|c:\\users\\sergio\\desktop\\tareas\\programaci\u00F3n web iii\\programacion_web_iii\\mvc2\\mvc2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|c:\\users\\sergio\\desktop\\tareas\\programaci\u00F3n web iii\\programacion_web_iii\\mvc2\\mvc2\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|solutionrelative:controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|c:\\users\\sergio\\desktop\\tareas\\programaci\u00F3n web iii\\programacion_web_iii\\mvc2\\mvc2\\models\\data\\helpdeskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50E671E4-2F1E-A483-0B96-0C243D2C4C25}|MVC2.csproj|solutionrelative:models\\data\\helpdeskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,23 +62,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\MVC2\\MVC2\\Views\\Ticket\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Ticket\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\MVC2\\MVC2\\Views\\Ticket\\Create.cshtml",
-              "RelativeToolTip": "Views\\Ticket\\Create.cshtml",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC2\\MVC2\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC2\\MVC2\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Views\\User\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-05T04:05:54.841Z"
+              "WhenOpened": "2025-10-13T12:28:24.489Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC2\\MVC2\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC2\\MVC2\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "Views\\User\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T12:19:57.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC2\\MVC2\\Views\\Ticket\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ticket\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC2\\MVC2\\Views\\Ticket\\Create.cshtml",
+              "RelativeToolTip": "Views\\Ticket\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T04:05:54.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\MVC2\\MVC2\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC2\\MVC2\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\MVC2\\MVC2\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC2\\MVC2\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
               "ViewState": "AgIAAIAAAAAAAAAAAAAowJMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -78,11 +113,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "TicketController.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\MVC2\\MVC2\\Controllers\\TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC2\\MVC2\\Controllers\\TicketController.cs",
               "RelativeDocumentMoniker": "Controllers\\TicketController.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\MVC2\\MVC2\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC2\\MVC2\\Controllers\\TicketController.cs",
               "RelativeToolTip": "Controllers\\TicketController.cs",
               "ViewState": "AgIAAIUAAAAAAAAAAAAUwJoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -90,35 +125,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\MVC2\\MVC2\\Views\\Ticket\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC2\\MVC2\\Views\\Ticket\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Ticket\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\MVC2\\MVC2\\Views\\Ticket\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC2\\MVC2\\Views\\Ticket\\Index.cshtml",
               "RelativeToolTip": "Views\\Ticket\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-30T12:28:56.806Z"
+              "WhenOpened": "2025-09-30T12:28:56.806Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Ticket.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\MVC2\\MVC2\\Models\\Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC2\\MVC2\\Models\\Ticket.cs",
               "RelativeDocumentMoniker": "Models\\Ticket.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\MVC2\\MVC2\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC2\\MVC2\\Models\\Ticket.cs",
               "RelativeToolTip": "Models\\Ticket.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T12:15:34.022Z"
+              "WhenOpened": "2025-09-30T12:15:34.022Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\MVC2\\MVC2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC2\\MVC2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\MVC2\\MVC2\\Program.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC2\\MVC2\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -127,40 +164,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\MVC2\\MVC2\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\MVC2\\MVC2\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-30T11:48:37.027Z",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC2\\MVC2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC2\\MVC2\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T11:45:49.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC2\\MVC2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC2\\MVC2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T11:48:37.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "HelpDeskDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\MVC2\\MVC2\\Models\\Data\\HelpDeskDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC2\\MVC2\\Models\\Data\\HelpDeskDBContext.cs",
               "RelativeDocumentMoniker": "Models\\Data\\HelpDeskDBContext.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\MVC2\\MVC2\\Models\\Data\\HelpDeskDBContext.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC2\\MVC2\\Models\\Data\\HelpDeskDBContext.cs",
               "RelativeToolTip": "Models\\Data\\HelpDeskDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T11:46:55.585Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\MVC2\\MVC2\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\MVC2\\MVC2\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T11:45:49.579Z"
             }
           ]
         }
