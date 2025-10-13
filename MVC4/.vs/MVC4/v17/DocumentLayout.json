@@ -1,26 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sergio\\Desktop\\MVC4\\",
+  "WorkspaceRootPath": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E97A157B-3042-5916-94D6-80328D39C946}|MVC4.csproj|c:\\users\\sergio\\desktop\\mvc4\\models\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E97A157B-3042-5916-94D6-80328D39C946}|MVC4.csproj|solutionrelative:models\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E97A157B-3042-5916-94D6-80328D39C946}|MVC4.csproj|c:\\users\\sergio\\desktop\\mvc4\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E97A157B-3042-5916-94D6-80328D39C946}|MVC4.csproj|c:\\users\\sergio\\desktop\\tareas\\programaci\u00F3n web iii\\programacion_web_iii\\mvc4\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E97A157B-3042-5916-94D6-80328D39C946}|MVC4.csproj|solutionrelative:models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E97A157B-3042-5916-94D6-80328D39C946}|MVC4.csproj|c:\\users\\sergio\\desktop\\mvc4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E97A157B-3042-5916-94D6-80328D39C946}|MVC4.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E97A157B-3042-5916-94D6-80328D39C946}|MVC4.csproj|c:\\users\\sergio\\desktop\\tareas\\programaci\u00F3n web iii\\programacion_web_iii\\mvc4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A157B-3042-5916-94D6-80328D39C946}|MVC4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E97A157B-3042-5916-94D6-80328D39C946}|MVC4.csproj|c:\\users\\sergio\\desktop\\mvc4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{E97A157B-3042-5916-94D6-80328D39C946}|MVC4.csproj|c:\\users\\sergio\\desktop\\tareas\\programaci\u00F3n web iii\\programacion_web_iii\\mvc4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E97A157B-3042-5916-94D6-80328D39C946}|MVC4.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E97A157B-3042-5916-94D6-80328D39C946}|MVC4.csproj|c:\\users\\sergio\\desktop\\mvc4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E97A157B-3042-5916-94D6-80328D39C946}|MVC4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E97A157B-3042-5916-94D6-80328D39C946}|MVC4.csproj|c:\\users\\sergio\\desktop\\tareas\\programaci\u00F3n web iii\\programacion_web_iii\\mvc4\\migrations\\20251009115010_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A157B-3042-5916-94D6-80328D39C946}|MVC4.csproj|solutionrelative:migrations\\20251009115010_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A157B-3042-5916-94D6-80328D39C946}|MVC4.csproj|c:\\users\\sergio\\desktop\\tareas\\programaci\u00F3n web iii\\programacion_web_iii\\mvc4\\migrations\\20251009124435_tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A157B-3042-5916-94D6-80328D39C946}|MVC4.csproj|solutionrelative:migrations\\20251009124435_tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A157B-3042-5916-94D6-80328D39C946}|MVC4.csproj|c:\\users\\sergio\\desktop\\tareas\\programaci\u00F3n web iii\\programacion_web_iii\\mvc4\\models\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97A157B-3042-5916-94D6-80328D39C946}|MVC4.csproj|solutionrelative:models\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97A157B-3042-5916-94D6-80328D39C946}|MVC4.csproj|c:\\users\\sergio\\desktop\\tareas\\programaci\u00F3n web iii\\programacion_web_iii\\mvc4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E97A157B-3042-5916-94D6-80328D39C946}|MVC4.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,11 +46,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "20251009115010_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC4\\Migrations\\20251009115010_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251009115010_Initial.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC4\\Migrations\\20251009115010_Initial.cs",
+              "RelativeToolTip": "Migrations\\20251009115010_Initial.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:41:11.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20251009124435_Tag.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC4\\Migrations\\20251009124435_Tag.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251009124435_Tag.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC4\\Migrations\\20251009124435_Tag.cs",
+              "RelativeToolTip": "Migrations\\20251009124435_Tag.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:41:09.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Tag.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\MVC4\\Models\\Tag.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC4\\Models\\Tag.cs",
               "RelativeDocumentMoniker": "Models\\Tag.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\MVC4\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC4\\Models\\Tag.cs",
               "RelativeToolTip": "Models\\Tag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -51,24 +85,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\MVC4\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\MVC4\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAkwCoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-09T12:05:22.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\MVC4\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC4\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\MVC4\\Program.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC4\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,11 +98,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\MVC4\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC4\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\MVC4\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC4\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -90,16 +111,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "MyDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\MVC4\\Models\\Data\\MyDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC4\\Models\\Data\\MyDBContext.cs",
               "RelativeDocumentMoniker": "Models\\Data\\MyDBContext.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\MVC4\\Models\\Data\\MyDBContext.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC4\\Models\\Data\\MyDBContext.cs",
               "RelativeToolTip": "Models\\Data\\MyDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-09T11:38:10.043Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\Tareas\\Programaci\u00F3n Web III\\Programacion_Web_III\\MVC4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwCoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T12:05:22.846Z"
             }
           ]
         }
